@@ -1,29 +1,151 @@
-<h1 align="center">Hi 👋, I'm Keith Japitana</h1>
-<h3 align="center">I help entrepreneurs & eCommerce Business Owners maximize revenue and target ideal customers through Crafting Professional Website and Smartcontracts</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keithjapitana&label=Profile%20views&color=0e75b6&style=flat" alt="keithjapitana" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e40af&height=200&section=header&text=KEITH%20JASPER%20JAPITANA&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20%7C%20Full%20Stack%20Developer%20%7C%20CRM%20Expert&descAlignY=58&descSize=16" />
 
-- 📫 How to reach me **keithjapitana1996@gmail.com**
+<br />
 
-- 🌱 I’m currently learning **Solidity & React JS**
-
-- 🔭 I’m currently working on **UpWork**
-
-
-<p align="left"> <a href="https://twitter.com/0xkisu" target="blank"><img src="https://img.shields.io/twitter/follow/0xkisu?logo=twitter&style=for-the-badge" alt="0xkisu" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@0xKisu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kisu#6923" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/keithjapitana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keithjapitana" height="30" width="40" /></a>
-<a href="https://fb.com/k3ithj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k3ithj" height="30" width="40" /></a>
-<a href="https://instagram.com/keithjapitana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keithjapitana" height="30" width="40" /></a>
-<a href="https://discord.gg/kisu#6923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kisu#6923" height="30" width="40" /></a>
+<p>
+  <a href="https://synthtrix.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-synthtrix.com-020617?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e40af" />
+  </a>
+  <a href="mailto:keithjapitana@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-keithjapitana@gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e40af" />
+  </a>
+  <a href="https://www.linkedin.com/in/keithjapitana/">
+    <img src="https://img.shields.io/badge/LINKEDIN-keithjapitana-020617?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e40af" />
+  </a>
+  <a href="https://skillshop.credential.net/profile/keithjapitana705159/wallet">
+    <img src="https://img.shields.io/badge/GOOGLE-CERTIFIED-020617?style=for-the-badge&logo=google&logoColor=white&labelColor=1e40af" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br />
 
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keithjapitana&show_icons=true&locale=en" alt="keithjapitana" /></p>
+---
 
+## 👋 ABOUT ME
+
+> **I build systems that save time and generate revenue.**
+
+I'm a **Web Developer & AI Automation Specialist** based in the Philippines with **5+ years** of experience working with service businesses, clinics, agencies, and franchises across the US, Canada, and PH.
+
+I don't just build websites. I build the full system around them — automated client journeys, CRM pipelines, ad campaigns, and AI workflows that keep running without anyone babysitting them.
+
+```
+🔭 Currently building  →  Synthtrix — AI-powered marketing & automation systems
+🤖 Daily tools         →  Claude Code, N8N, Vapi.ai, MCP, GoHighLevel
+🌱 Currently learning  →  Next.js 15, AI Agent Frameworks, Supabase Edge Functions
+⚡ Core focus          →  Revenue-driven automation, CRM systems, full stack web apps
+📍 Location            →  Silay City, Negros Occidental, Philippines
+```
+
+---
+
+## 🛠️ TECH STACK
+
+### 🤖 AI & Automation
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vapi.ai-020617?style=for-the-badge&logo=microphone&logoColor=white" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🏗️ CMS & Website Builders
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoHighLevel-F97316?style=for-the-badge&logo=gohighlevel&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+</p>
+
+### 🗄️ Backend & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 📈 CRM, Ads & SEO
+<p>
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semrush-F96611?style=for-the-badge&logo=semrush&logoColor=white" />
+</p>
+
+### 🎨 Design
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+## 🚀 RECENT PROJECTS
+
+| Project | Stack | Live |
+|---------|-------|------|
+| 🔷 **Project Liora** | Next.js · Full-Stack · SEO | [liora.synthtrix.com](https://liora.synthtrix.com/) |
+| 💎 **Aesthetics Reps** | Next.js · GoHighLevel · SEO | [aestheticreps.com](https://www.aestheticreps.com/) |
+| 🏥 **Cura Nova Care** | Next.js · Full-Stack · SEO | [curanovacare.metask.org](https://curanovacare.metask.org/) |
+| 🩺 **Med One** | WordPress · SEO | [medone-1.com](https://medone-1.com/) |
+| ⭐ **The Five Star Scale** | GoHighLevel · SEO | [fivestarscale.com](https://www.fivestarscale.com/) |
+
+---
+
+## 💼 WORK EXPERIENCE
+
+```
+FranchiseFilming          HubSpot & WordPress | Google Ads | SEO       2025 – 2026
+The Five Star Scale       GoHighLevel & WordPress | Google Ads          2024 – 2025
+MedOne / Metask           WordPress Developer & Automation Expert       2024 – 2025
+Investor Campaign LLC     WordPress Developer & Automation Expert       2024 – 2025
+Ayo Biomedical Tech       WordPress Developer & Hardware Engineer       2020 – 2023
+Stratium Software Group   Freelance Frontend Web Developer              2019 – 2021
+```
+
+---
+
+## 📊 GITHUB STATS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeithJapitana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithJapitana&layout=compact&langs_count=8&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:020617&height=120&section=footer" />
+
+<p>
+  <code>© SYNTHTRIX</code> · 
+  <a href="https://synthtrix.com">synthtrix.com</a> · 
+  <a href="mailto:keithjapitana@gmail.com">keithjapitana@gmail.com</a>
+</p>
+
+</div>
