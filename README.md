@@ -121,20 +121,21 @@ Stratium Software Group   Freelance Frontend Web Developer              2019 –
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KeithJapitana&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=KeithJapitana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.demolab.com?user=KeithJapitana&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithJapitana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:020617&height=120&section=footer" />
-
 <p>
   <code>© SYNTHTRIX</code> · 
   <a href="https://synthtrix.com">synthtrix.com</a> · 
   <a href="mailto:keithjapitana@gmail.com">keithjapitana@gmail.com</a>
 </p>
-
 </div>
