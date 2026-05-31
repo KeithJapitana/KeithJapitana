@@ -121,13 +121,20 @@ Stratium Software Group   Freelance Frontend Web Developer              2019 –
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeithJapitana&theme=tokyonight" />
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeithJapitana&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeithJapitana&theme=tokyonight" />
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeithJapitana&theme=tokyonight" />
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KeithJapitana&style=flat&color=blue" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeithJapitana&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeithJapitana&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=KeithJapitana&style=flat&color=blue&label=Profile+Views" />
 
 </div>
 
